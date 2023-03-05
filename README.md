@@ -7,6 +7,6 @@ pip install -r requirements.txt
 
 2. Run the entire [Notebook](run.ipynb) 
 
-The processed df will be saved as [.csv file](outputs/Building_dmg_w_geo.csv).
+The processed df will be saved as [.csv file](Building_dmg_w_geo.csv).
 
 
