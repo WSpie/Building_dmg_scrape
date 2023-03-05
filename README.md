@@ -7,10 +7,5 @@ pip install -r requirements.txt
 
 2. Run the entire [Notebook](run.ipynb) 
 
-The processed df will be saved as [.parquet file](Building_dmg_w_geo.parquet).
+The processed df will be saved as [.csv file](outputs/Building_dmg_w_geo.csv).
 
-3. Load processed df by:
-```python3
-import pandas as pd
-df = pd.read_parquet('Building_dmg_w_geo.parquet')
-```

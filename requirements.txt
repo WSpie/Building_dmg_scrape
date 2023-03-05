@@ -1,5 +1,3 @@
-pyarrow
-fastparquet
 pandas
 requests
 tqdm
